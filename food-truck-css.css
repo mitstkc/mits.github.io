@@ -236,7 +236,7 @@ opacity: 0.24;
   max-width: 900px;
   margin: 50px auto;
   border-radius: var(--border-radius);
-  overflow: hidden;
+  overflow: revert;
   position: relative;
 }
 
